@@ -28,9 +28,6 @@ Token from Pipeline
 
 PowerShell Object
 
-.SYNTAX
-
-Get-JWTDetails(accesstoken)
 
 .EXAMPLE
 
